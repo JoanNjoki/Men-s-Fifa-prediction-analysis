@@ -17,7 +17,7 @@ Methods used:
 Google collab Notebook
 ## Project Description
  
- ### Making predictions based on the type of tournament(Win,Loss or Draw) and determining the home and away scores
+ > * Making predictions based on the type of tournament(Win,Loss or Draw) and determining the home and away scores
 
 ## Contact
 > Please feel free to reach out for any queries
